@@ -1,0 +1,3 @@
+[submodule "server/recipe"]
+    path = server/recipe
+    url = https://github.com/hindaBracha/recipe-server.git
